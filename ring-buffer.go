@@ -1,3 +1,6 @@
+// Credit to this YouTube Video:
+// https://youtu.be/KyreJSKEagg
+
 package main
 
 import (
